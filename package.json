@@ -1,0 +1,42 @@
+{
+  "name": "faizan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "*",
+    "body-parser": "^1.18.2",
+    "card-validator": "^4.1.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "*",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0",
+    "express-handlebars": "*",
+    "express-messages": "^1.0.1",
+    "express-session": "*",
+    "express-validation": "^1.0.2",
+    "express-validator": "^4.3.0",
+    "firebase": "^4.7.0",
+    "formidable": "^1.1.1",
+    "fs-extra": "^4.0.2",
+    "geocoder": "^0.2.3",
+    "geodist": "^0.2.1",
+    "joi": "^11.4.0",
+    "luhn": "^2.1.0",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.6",
+    "nodemon": "^1.12.1",
+    "npm": "^5.6.0",
+    "passport": "^0.4.0",
+    "passport-http": "*",
+    "passport-local": "^1.0.0",
+    "validator": "^9.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
